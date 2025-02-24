@@ -1,0 +1,2 @@
+# sql-homeworks
+Nazirov Muhammadamin
